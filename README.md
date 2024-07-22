@@ -22,4 +22,3 @@ src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3
 
 **Thank you for visiting my GitHub profile! Feel free to reach out or contribute to my projects.🚀**
 
-<p>hellogi</p>
